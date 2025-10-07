@@ -1,4 +1,4 @@
-# Hi👋,I'm Mangala Halasu
+# Hi👋,I'm Mangala Halasur
 ## CSE Student with passion for web development
 
 
