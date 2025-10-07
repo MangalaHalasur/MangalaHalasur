@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I'm Mangala Halasur! CSE Student with passion for web development
+## Hi👋,I'm Mangala Halasur
+# CSE Student with passion for web development
 
 
 ## 🌐 Socials:
